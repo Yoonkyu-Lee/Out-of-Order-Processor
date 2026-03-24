@@ -1,0 +1,7 @@
+{
+    "num_rw_ports": 7,
+    "word_size"   : 32,
+    "write_size"  : 32,
+    "num_words"   : 128,
+    "random_init" : false
+}
