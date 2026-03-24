@@ -1,4 +1,4 @@
-# Out-of-Order-Processor
+# Out-of-Order Processor
 
 A SystemVerilog out-of-order RV32IM processor built around explicit register renaming, in-order retirement, and a split cache hierarchy. This repository is organized as a portfolio project for processor design roles: the top-level overview is concise enough for a quick review, while the supporting documents go deeper into microarchitecture, verification, and development flow.
 
